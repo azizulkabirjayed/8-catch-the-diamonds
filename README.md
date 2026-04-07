@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
 # About The Project
-This project was developed as part of the CSE423(Computer Graphics) course assignment at BRAC University.
-You can find the assignment details here: <a href="cse423_assignment02.pdf">click here</a>.
+This project was developed as part of the CSE423(Computer Graphics) course [assignment](https://github.com/azizulkabirjayed/8-catch-the-diamonds/blob/180236c84784c6d83e95aa0f0a4b55c0f514c571/cse423_assignment02.pdf) at BRAC University.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
